@@ -1,0 +1,29 @@
+h1, h2 {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+strong {
+    font-weight: normal;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
+}
+
+p.text {
+    font-size: 1.2em;
+}
+
+
+p.link {
+    font-family: sans-serif;
+    font-weight: bold;   
+}
